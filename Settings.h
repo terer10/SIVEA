@@ -1,0 +1,6 @@
+#ifndef SETTINGS_H_INCLUDED
+#define SETTINGS_H_INCLUDED
+#define HEIGHT 640
+#define WIDTH 480
+#define ROAD_SPEED 10
+#endif // SETTINGS_H_INCLUDED

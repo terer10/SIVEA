@@ -1,0 +1,11 @@
+First Commit!
+
+Includes:
+State Manager(Complete)
+Resource Manager Template(Complete)
+
+Makeshift:
+Collision Detection(WIP)
+Health/Power System.
+
+:D
